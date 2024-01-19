@@ -9,15 +9,15 @@
 </td></tr></table>
 
 ## Context
-Que ce soit les nouveaux commerces en ligne ou même les commerces bien établis, cherchent à avoir plus de canaux de vente à part leur site principal. Gérer des annonces sur plusieurs plateformes n'est pas chose facile et consomme beaucoup de temps. Ayant sa base de données sur son site principal, on aimerait la récupérer et choisir quelles annonces republier sur une autre plateforme, ic en l'occurence _Leboncoin_ pour moi.
+Tant les nouveaux commerces en ligne que ceux déjà bien établis cherchent à diversifier leurs canaux de vente au-delà de leur site web principal. La gestion d'annonces sur de multiples plateformes peut s'avérer complexe et chronophage. Avec une base de données centralisée dans le site principal, l'idéal serait de pouvoir facilement récupérer et sélectionner les annonces à republier sur des marketplace, comme Leboncoin dans mon cas.
 
 ## Comment ça fonctionne
-Dans une utilisation classique de *AdsPublisher*, il suit les étapes suivantes:
+Dans une utilisation classique, *AdsPublisher* suit les étapes suivantes:
 - Télécharger les annonces depuis le site principal (source);
 - Enregistre chaque annonce dans un dossier, avec un fichier json contennat tous les informations nécessaires avec les images du produit;
-- Construire la liste des annonces à publier sur le site cible;
-- Éditer le fichier de configuration du compte utilisateur sur le site cible;
-- Lancer la publication des annonces.
+- Construire la liste des annonces à publier dans le site cible;
+- Éditer le fichier de configuration du compte utilisateur du site cible;
+- Publier les annonces.
 
 ![image](https://github.com/elho2007/AdsPublisher/assets/34011591/0f3c14b5-b814-4349-9239-2f0aed119338)
 
