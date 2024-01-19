@@ -5,7 +5,7 @@
 <br>
 <b>Keywords:</b> <i>Python, Django, Selenium, Prestashop API</i>
 <br>
-<b>Collaborator:</b> [Akram](https://github.com/1akram/)
+<b>Collaborator:</b> <a href="https://github.com/1akram/">Akram</a>
 </td></tr></table>
 
 ## Context
