@@ -1,9 +1,10 @@
 # AdsPublisher
 <table><tr><td>
 <b>Resume</b>
-<br>I have developed my website using PrestaShop and am exploring additional sales channels. To this end, I created AdsPublisher. This tool retrieves products from my website and displays them in a web interface, allowing me to construct a list of ads for publication on Leboncoin. After configuring the target website and preparing the ads, AdsPublisher posts each ad individually, mimicking human behavior.
+<br>I have developed my website using PrestaShop and am exploring additional sales channels. To this end, _AdsPublisher_ retrieves products from my website and displays them in a web interface, allowing me to construct a list of ads for publication on Leboncoin. After configuring the target website and preparing the ads, AdsPublisher posts each ad individually, mimicking human behavior.
 <br>
 <b>Keywords:</b> <i>Python, Django, Selenium, Prestashop API</i>
+  <b>Collaborator:</b> [Akram](https://github.com/1akram/)
 </td></tr></table>
 
 ## Context
@@ -32,6 +33,5 @@ ensuite il regarde les nouvelles annonces en se basant sur l'historique de sa su
 
 ### À venir
 - Une vidéo démonstratif,
-- Plus de détails sur le développement de *AdsCrawler*,
-- Personalisation (alerts, sites, mots clées, etc..),
+- Plus de détails sur le développement de *AdsPublisher*,
 - Possibilités et idées d'utilisation.
