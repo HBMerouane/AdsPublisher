@@ -4,7 +4,8 @@
 <br>I have developed my website using PrestaShop and am exploring additional sales channels. To this end, _AdsPublisher_ retrieves products from my website and displays them in a web interface, allowing me to construct a list of ads for publication on Leboncoin. After configuring the target website and preparing the ads, AdsPublisher posts each ad individually, mimicking human behavior.
 <br>
 <b>Keywords:</b> <i>Python, Django, Selenium, Prestashop API</i>
-  <b>Collaborator:</b> [Akram](https://github.com/1akram/)
+<br>
+<b>Collaborator:</b> [Akram](https://github.com/1akram/)
 </td></tr></table>
 
 ## Context
