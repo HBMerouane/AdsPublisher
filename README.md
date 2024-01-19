@@ -3,7 +3,7 @@
 <b>Resume</b>
 <br>I have developed my website using PrestaShop and am exploring additional sales channels. To this end, I created AdsPublisher. This tool retrieves products from my website and displays them in a web interface, allowing me to construct a list of ads for publication on Leboncoin. After configuring the target website and preparing the ads, AdsPublisher posts each ad individually, mimicking human behavior.
 <br>
-<b>Keywords:</b> <i>Python, Selenium, Prestashop API</i>
+<b>Keywords:</b> <i>Python, Django, Selenium, Prestashop API</i>
 </td></tr></table>
 
 ## Context
@@ -17,6 +17,7 @@ Dans une utilisation classique de *AdsPublisher*, il suit les étapes suivantes:
 - Éditer le fichier de configuration du compte utilisateur sur le site cible;
 - Lancer la publication des annonces.
 
+![image](https://github.com/elho2007/AdsPublisher/assets/34011591/0f3c14b5-b814-4349-9239-2f0aed119338)
 
 **Remarque:**
 L'utilisateur a l'accès aux différentes fonctions du script, il n'est obliger de les exécuter dans l'ordre.
