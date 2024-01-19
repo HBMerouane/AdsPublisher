@@ -24,8 +24,6 @@ Dans une utilisation classique, *AdsPublisher* suit les étapes suivantes:
 **Remarque:**
 L'utilisateur a l'accès aux différentes fonctions du script, il n'est pas obliger de les exécuter dans l'ordre.
 
-![image](https://github.com/elho2007/AdsCrawler/assets/34011591/24573946-f815-464c-8178-076dd7201d9b)
-
 
 ### À venir
 - Une vidéo démonstratif,
